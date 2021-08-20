@@ -15,7 +15,7 @@ public class Exercicio11 {
 
         double[] salarios = new double[qntFuncionarios];
 
-        for (int i=0;i<salarios.length;i++) {
+        for (int i = 0; i < salarios.length; i++) {
             System.out.println("Insira o salario: ");
             salarios[i] = scanner.nextDouble();
             totalSalarios += salarios[i];
