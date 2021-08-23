@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 public class Exercicio11 {
-    public static void main(String[] args) {
 
+    public static void main(String[] args) {
         int qntFuncionarios, salariosAcimaMedia = 0;
         double totalSalarios = 0;
         double media;

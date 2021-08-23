@@ -2,8 +2,8 @@ import java.util.Scanner;
 import java.lang.Math;
 
 public class Exercicio7 {
-    public static void main(String[] args) {
 
+    public static void main(String[] args) {
         int[] numero = {0, 0, 0};
         char[] letras = {'A', 'B', 'C'};
         double[] raiz = {0, 0};
